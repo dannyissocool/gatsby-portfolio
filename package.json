@@ -14,9 +14,16 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@fontsource/poppins": "^4.5.0",
     "babel-plugin-styled-components": "^1.13.2",
+    "emailjs-com": "^3.2.0",
     "gatsby": "^3.13.0",
+    "gatsby-image": "^3.11.0",
+    "gatsby-plugin-sharp": "^3.13.0",
     "gatsby-plugin-styled-components": "^4.13.0",
+    "gatsby-source-filesystem": "^3.13.0",
+    "gatsby-transformer-remark": "^4.10.0",
+    "gatsby-transformer-sharp": "^3.13.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "styled-components": "^5.3.1"
